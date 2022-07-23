@@ -158,3 +158,5 @@ public class Puzzle extends Application {
         return new Cell((int) graphX / 40, (int) graphY / 40);
     }
 }
+
+

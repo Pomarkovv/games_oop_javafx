@@ -27,3 +27,5 @@ public class Block implements Figure {
         return false;
     }
 }
+
+
